@@ -12,4 +12,8 @@
 
 ## Programming
 
+### Package management
+* [Semantic Versioning](https://semver.org/), how to version projects properly.
+
+#### Python 
 * [The hypermodern Python setup](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/), modern setup for Python using pyenv/poetry.
